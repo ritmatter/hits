@@ -1,0 +1,40 @@
+1,Don't Be So Hard On Yourself,Jess Glynne
+2,Marvin Gaye,Charlie Puth feat. Meghan Trainor
+3,How Deep Is Your Love,Calvin Harris & Disciples
+4,Intoxicated,Martin Solveig & GTA
+5,Can't Feel My Face,The Weeknd
+6,Glitterball,Sigma feat. Ella Henderson
+7,Do It Again (feat. Chris Brown & Tyga),Pia Mia
+8,Black Magic,Little Mix
+9,Fly Away,5 Seconds Of Summer
+10,Are You With Me,Lost Frequencies
+11,Drag Me Down,One Direction
+12,Shut Up and Dance,WALK THE MOON
+13,The Party (This Is How We Do It),Joe Stone feat. Montell Jordan
+14,Shine,Years & Years
+15,Omen,Disclosure feat. Sam Smith
+16,Photograph,Ed Sheeran
+17,Want To Want Me,Jason Derulo
+18,Show Me Love,Sam Feldt feat. Kimberly Anne
+19,Cheerleader,Omi
+20,Waiting For Love,Avicii
+21,Not Letting Go,Tinie Tempah feat. Jess Glynne
+22,Lean On,Major Lazer feat. MØ & DJ Snake
+23,Body On Me,Rita Ora Feat. Chris Brown
+24,Watch Me (Whip / Nae Nae),Silentó
+25,House Every Weekend,David Zowie
+26,Come And Get It,John Newman
+27,Freak Of The Week,Krept & Konan
+28,Wings,Birdy
+29,Trap Queen,Fetty Wap
+30,Pony (Jump On It) [feat. Ginuwine],Tough Love
+31,I Don't Like It, I Love It,Flo Rida feat. Robin Thicke & Verdine White
+32,Where Are Ü Now,Skrillex & Diplo feat. Justin Bieber
+33,See You Again,Wiz Khalifa feat. Charlie Puth
+34,Peanut Butter Jelly,Galantis
+35,Runaway (U & I),Galantis
+36,Good For You (feat. A$AP Rocky),Selena Gomez
+37,Let It Go,James Bay
+38,Uptown Funk,Mark Ronson feat. Bruno Mars
+39,I Need Your Love (feat. Mohombi, Faydee & Costi),Shaggy
+40,Poison,Rita Ora
